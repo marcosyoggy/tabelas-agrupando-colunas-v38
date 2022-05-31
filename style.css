@@ -26,12 +26,16 @@ th, tr, td {
 #col-nome {
     background-color: rgb(73, 238, 73);
 }
-#col-sexo {
+/* #col-sexo {
     background-color: rgb(235, 238, 73);
 }
 #col-idade {
     background-color: rgb(92, 165, 233);
-}
+} */
 #col-profissão {
     background-color: rgb(245, 123, 119);
+}
+
+.grupo-adjacente {
+    background-color: white;
 }
