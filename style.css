@@ -4,6 +4,13 @@ html {
 }
 table {
     border-collapse: collapse;
+    margin: 20px;
+}
+
+caption {
+    border: 1px solid red;
+    background-color: yellow;
+    color: blue;
 }
 
 th {
@@ -14,4 +21,17 @@ th {
 
 th, tr, td {
     border: 1px solid black;
+}
+
+#col-nome {
+    background-color: rgb(73, 238, 73);
+}
+#col-sexo {
+    background-color: rgb(235, 238, 73);
+}
+#col-idade {
+    background-color: rgb(92, 165, 233);
+}
+#col-profissão {
+    background-color: rgb(245, 123, 119);
 }
